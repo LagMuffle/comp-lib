@@ -1,7 +1,7 @@
 {
-  "name": "@LagMuffle/comp-lib",
+  "name": "@lagmuffle/comp-lib",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/LagMuffle"
+    "registry": "https://npm.pkg.github.com/lagmuffle"
   },
   "version": "1.0.0",
   "description": "Custom Package Library Tester",
