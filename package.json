@@ -1,5 +1,5 @@
 {
-  "name": "lagmuffle/comp-lib",
+  "name": "@lagmuffle/comp-lib",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lagmuffle/comp-lib.git"
