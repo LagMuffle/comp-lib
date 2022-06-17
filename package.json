@@ -1,7 +1,8 @@
 {
-  "name": "@lagmuffle/comp-lib",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/lagmuffle"
+  "name": "lagmuffle/comp-lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lagmuffle/comp-lib.git"
   },
   "version": "1.0.0",
   "description": "Custom Package Library Tester",
